@@ -31,6 +31,8 @@ function Hero() {
           
         </div>
 
+
+
         <aside className="hero-panel">
           <p className="hero-panel-label">At a glance</p>
           <ul className="hero-stats">
